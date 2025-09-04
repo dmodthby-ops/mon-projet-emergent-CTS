@@ -78,9 +78,9 @@ const TestimonialsSection = () => {
     </div>
   );
 
-  // Duplicate testimonials for infinite scroll effect
-  const duplicatedTestimonials1 = [...testimonials.slice(0, 4), ...testimonials.slice(0, 4)];
-  const duplicatedTestimonials2 = [...testimonials.slice(4, 8), ...testimonials.slice(4, 8)];
+  // Duplicate testimonials for infinite scroll effect - 15 per row
+  const duplicatedTestimonials1 = [...testimonials.slice(0, 15), ...testimonials.slice(0, 15)];
+  const duplicatedTestimonials2 = [...testimonials.slice(15, 30), ...testimonials.slice(15, 30)];
 
   return (
     <section id="temoignages" className="py-20 bg-gradient-to-br from-white to-gray-50 overflow-hidden">

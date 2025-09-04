@@ -49,7 +49,7 @@ const TestimonialsSection = () => {
   };
 
   const TestimonialCard = ({ testimonial }) => (
-    <div className="flex-shrink-0 w-80 bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-shadow mx-4 border border-gray-100">
+    <div className="flex-shrink-0 w-72 md:w-80 bg-white rounded-2xl p-4 md:p-6 shadow-lg hover:shadow-xl transition-shadow mx-2 md:mx-4 border border-gray-100">
       <div className="flex items-center mb-4">
         <img
           src={testimonial.image}

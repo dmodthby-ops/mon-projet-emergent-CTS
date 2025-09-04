@@ -9,7 +9,7 @@ from datetime import datetime
 import uuid
 
 def get_database():
-    from .server import db
+    from server import db
     return db
 
 # Create router

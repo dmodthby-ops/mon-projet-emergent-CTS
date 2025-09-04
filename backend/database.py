@@ -1,6 +1,6 @@
 import asyncio
 from motor.motor_asyncio import AsyncIOMotorDatabase
-from .models import *
+from models import *
 from datetime import datetime
 
 async def seed_testimonials(db: AsyncIOMotorDatabase):

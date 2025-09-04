@@ -11,8 +11,8 @@ import uuid
 from datetime import datetime
 
 # Import our custom routes and database
-from routes import router as cashtok_router
-from database import init_database
+from .routes import router as cashtok_router
+from .database import init_database
 
 ROOT_DIR = Path(__file__).parent
 load_dotenv(ROOT_DIR / '.env')

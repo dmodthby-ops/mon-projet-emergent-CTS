@@ -105,20 +105,20 @@ const TestimonialsSection = () => {
         {/* Stats */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8 mb-16">
           <div className="text-center">
-            <div className="text-3xl font-bold text-green-600">2 500+</div>
-            <div className="text-gray-600">Membres actifs</div>
+            <div className="text-2xl md:text-3xl font-bold text-green-600">2 500+</div>
+            <div className="text-gray-600 text-sm md:text-base">Membres actifs</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold text-blue-600">95%</div>
-            <div className="text-gray-600">Taux de satisfaction</div>
+            <div className="text-2xl md:text-3xl font-bold text-blue-600">95%</div>
+            <div className="text-gray-600 text-sm md:text-base">Taux de satisfaction</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold text-purple-600">3 200€</div>
-            <div className="text-gray-600">Revenu moyen/mois</div>
+            <div className="text-2xl md:text-3xl font-bold text-purple-600">3 200€</div>
+            <div className="text-gray-600 text-sm md:text-base">Revenu moyen/mois</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold text-pink-600">30j</div>
-            <div className="text-gray-600">Premiers résultats</div>
+            <div className="text-2xl md:text-3xl font-bold text-pink-600">30j</div>
+            <div className="text-gray-600 text-sm md:text-base">Premiers résultats</div>
           </div>
         </div>
 

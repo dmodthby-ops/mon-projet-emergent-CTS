@@ -103,7 +103,7 @@ const TestimonialsSection = () => {
         </div>
 
         {/* Stats */}
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-16">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8 mb-16">
           <div className="text-center">
             <div className="text-3xl font-bold text-green-600">2 500+</div>
             <div className="text-gray-600">Membres actifs</div>

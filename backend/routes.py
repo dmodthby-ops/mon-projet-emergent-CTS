@@ -2,8 +2,8 @@ from fastapi import APIRouter, HTTPException, Depends, Request
 from typing import List
 import asyncio
 from motor.motor_asyncio import AsyncIOMotorDatabase
-from .models import *
-from .services import *
+from models import *
+from services import *
 import os
 from datetime import datetime
 import uuid

@@ -70,6 +70,204 @@ export const testimonials = [
     platform: "Multi-plateformes",
     revenue: "4 200€/mois",
     rating: 5
+  },
+  {
+    id: 9,
+    name: "Julie Moreau",
+    image: "https://images.unsplash.com/photo-1494790108755-2616b612b1e5?w=150&h=150&fit=crop&crop=face",
+    text: "6 mois après CASHTOK, je vis de mes créations TikTok ! 2 900€/mois et ça continue de grandir.",
+    platform: "TikTok",
+    revenue: "2 900€/mois",
+    rating: 5
+  },
+  {
+    id: 10,
+    name: "Kevin Bertrand",
+    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    text: "Les stratégies Instagram de CASHTOK m'ont permis de quitter mon job ! Maintenant 4 100€/mois.",
+    platform: "Instagram",
+    revenue: "4 100€/mois",
+    rating: 5
+  },
+  {
+    id: 11,
+    name: "Camille Dupont",
+    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+    text: "YouTube + CASHTOK = liberté financière ! De 0 à 3 500€/mois en 5 mois chrono.",
+    platform: "YouTube",
+    revenue: "3 500€/mois",
+    rating: 5
+  },
+  {
+    id: 12,
+    name: "Alexandre Roy",
+    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    text: "Incroyable ! Multi-plateformes grâce à CASHTOK : 6 200€/mois. Le rêve devient réalité.",
+    platform: "Multi-plateformes",
+    revenue: "6 200€/mois",
+    rating: 5
+  },
+  {
+    id: 13,
+    name: "Sarah Lebon",
+    image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face",
+    text: "Maman au foyer, maintenant créatrice à succès ! TikTok me rapporte 2 400€/mois avec CASHTOK.",
+    platform: "TikTok",
+    revenue: "2 400€/mois",
+    rating: 5
+  },
+  {
+    id: 14,
+    name: "Pierre Girard",
+    image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+    text: "Étudiant, je gagne plus que mes parents ! Instagram + CASHTOK = 3 300€/mois. Merci !",
+    platform: "Instagram",
+    revenue: "3 300€/mois",
+    rating: 5
+  },
+  {
+    id: 15,
+    name: "Léa Fontaine",
+    image: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=150&h=150&fit=crop&crop=face",
+    text: "YouTube était ma passion, CASHTOK en a fait mon métier ! 4 800€/mois et je kiffe ma vie.",
+    platform: "YouTube",
+    revenue: "4 800€/mois",
+    rating: 5
+  },
+  {
+    id: 16,
+    name: "Maxime Blanc",
+    image: "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?w=150&h=150&fit=crop&crop=face",
+    text: "De salarié frustré à entrepreneur libre ! Multi-plateformes : 5 700€/mois grâce à CASHTOK.",
+    platform: "Multi-plateformes",
+    revenue: "5 700€/mois",
+    rating: 5
+  },
+  {
+    id: 17,
+    name: "Manon Roux",
+    image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&h=150&fit=crop&crop=face",
+    text: "TikTok + méthodes CASHTOK = indépendance financière ! 2 700€/mois à seulement 22 ans.",
+    platform: "TikTok",
+    revenue: "2 700€/mois",
+    rating: 5
+  },
+  {
+    id: 18,
+    name: "Lucas Martin",
+    image: "https://images.unsplash.com/photo-1507591064344-4c6ce005b128?w=150&h=150&fit=crop&crop=face",
+    text: "Instagram business explosé ! Coaching CASHTOK ultra efficace : 3 900€/mois maintenant.",
+    platform: "Instagram",
+    revenue: "3 900€/mois",
+    rating: 5
+  },
+  {
+    id: 19,
+    name: "Chloé Vidal",
+    image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=face",
+    text: "Mes vidéos YouTube cartonnent ! CASHTOK m'a donné toutes les clés : 4 300€/mois récurrents.",
+    platform: "YouTube",
+    revenue: "4 300€/mois",
+    rating: 5
+  },
+  {
+    id: 20,
+    name: "Damien Petit",
+    image: "https://images.unsplash.com/photo-1463453091185-61582044d556?w=150&h=150&fit=crop&crop=face",
+    text: "Multi-plateformes expert après CASHTOK ! Résultat : 7 100€/mois. Ça change une vie !",
+    platform: "Multi-plateformes",
+    revenue: "7 100€/mois",
+    rating: 5
+  },
+  {
+    id: 21,
+    name: "Océane Moreau",
+    image: "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=150&h=150&fit=crop&crop=face",
+    text: "TikTok débutante, maintenant professionnelle ! 2 100€/mois stable grâce aux stratégies CASHTOK.",
+    platform: "TikTok",
+    revenue: "2 100€/mois",
+    rating: 5
+  },
+  {
+    id: 22,
+    name: "Benjamin Gauthier",
+    image: "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=150&h=150&fit=crop&crop=face",
+    text: "Instagram transformé en machine à cash ! Formation CASHTOK : investissement le plus rentable, 3 600€/mois.",
+    platform: "Instagram",
+    revenue: "3 600€/mois",
+    rating: 5
+  },
+  {
+    id: 23,
+    name: "Justine Lambert",
+    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&h=150&fit=crop&crop=face",
+    text: "YouTube passion, YouTube business ! CASHTOK m'a tout appris : 5 200€/mois et c'est parti !",
+    platform: "YouTube",
+    revenue: "5 200€/mois",
+    rating: 5
+  },
+  {
+    id: 24,
+    name: "Florian Durand",
+    image: "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=150&h=150&fit=crop&crop=face",
+    text: "Stratégies multi-plateformes de CASHTOK = jackpot ! 6 800€/mois, je recommande à 200% !",
+    platform: "Multi-plateformes",
+    revenue: "6 800€/mois",
+    rating: 5
+  },
+  {
+    id: 25,
+    name: "Jade Rousseau",
+    image: "https://images.unsplash.com/photo-1607746882042-944635dfe10e?w=150&h=150&fit=crop&crop=face",
+    text: "TikTok creator professionnelle ! Méthodes CASHTOK redoutables : 2 800€/mois fixes désormais.",
+    platform: "TikTok",
+    revenue: "2 800€/mois",
+    rating: 5
+  },
+  {
+    id: 26,
+    name: "Antoine Leroy",
+    image: "https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=150&h=150&fit=crop&crop=face",
+    text: "Instagram pro level atteint ! Coaching CASHTOK au top : 4 000€/mois stables. Énorme !",
+    platform: "Instagram",
+    revenue: "4 000€/mois",
+    rating: 5
+  },
+  {
+    id: 27,
+    name: "Clara Bonnet",
+    image: "https://images.unsplash.com/photo-1598378208115-1df96b7db94c?w=150&h=150&fit=crop&crop=face",
+    text: "YouTube empire en construction ! Formation CASHTOK exceptionnelle : 4 600€/mois et ça monte !",
+    platform: "YouTube",
+    revenue: "4 600€/mois",
+    rating: 5
+  },
+  {
+    id: 28,
+    name: "Hugo Mercier",
+    image: "https://images.unsplash.com/photo-1551836022-8b2858c9c69b?w=150&h=150&fit=crop&crop=face",
+    text: "Multi-plateformes master class ! CASHTOK système ultra puissant : 7 500€/mois. Incroyable !",
+    platform: "Multi-plateformes",
+    revenue: "7 500€/mois",
+    rating: 5
+  },
+  {
+    id: 29,
+    name: "Emma Barbier",
+    image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=150&h=150&fit=crop&crop=face",
+    text: "TikTok business lancé ! Stratégies CASHTOK efficaces dès le 1er mois : 1 900€/mois déjà !",
+    platform: "TikTok",
+    revenue: "1 900€/mois",
+    rating: 5
+  },
+  {
+    id: 30,
+    name: "Romain Fabre",
+    image: "https://images.unsplash.com/photo-1548372290-8d01b6c8e78c?w=150&h=150&fit=crop&crop=face",
+    text: "Instagram success story ! Formation CASHTOK = game changer : 3 700€/mois. Bravo l'équipe !",
+    platform: "Instagram",
+    revenue: "3 700€/mois",
+    rating: 5
   }
 ];
 
